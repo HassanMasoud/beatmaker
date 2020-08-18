@@ -54,3 +54,12 @@ header p {
 .pad6 {
   background-color: #60b2d3;
 }
+
+.visual > div {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  bottom: 0%;
+  left: 20%;
+}
